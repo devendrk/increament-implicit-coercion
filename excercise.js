@@ -1,4 +1,4 @@
-# increament-implicit-coercion
+// increament-implicit-coercion
 // incrementor operator: ++variable
 // implicit coercion
 // adding to NaN
