@@ -15,7 +15,7 @@ let incr_num_1;
   num_1 = step_1;
 };
 
-// -------------------------------
+ debugger
 
 num_1 = 1;
 let num_1_incr;
@@ -25,7 +25,7 @@ let num_1_incr;
   num_1 = step_1;
 };
 
-// -------------------------------
+debugger;
 
 let str_1 = "1";
 let incr_str_1;
@@ -36,8 +36,7 @@ let incr_str_1;
   str_1 = step_2;
 };
 
-// -------------------------------
-
+debugger;
 str_1 = "1";
 let str_1_incr;
 { // let str_1_incr = str_1++;
@@ -47,7 +46,7 @@ let str_1_incr;
   str_1 = step_2;
 };
 
-// -------------------------------
+debugger
 
 let str_e = "e";
 let incr_str_e;
@@ -58,7 +57,7 @@ let incr_str_e;
   str_e = step_2;
 };
 
-// -------------------------------
+debugger
 
 str_e = "e";
 let str_e_incr;
